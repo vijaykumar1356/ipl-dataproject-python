@@ -1,0 +1,8 @@
+--------------------------------xxxxxxxxxxxxxxx---------------------------------
+
+1. Total Runs Scored by each Team over the History of IPL (2008-2017)
+2. Top Batsmen for Royal Challengers Bangalore
+3. Number of Umpires of Foreign Origin over the History of IPL
+4. Stacked Chart of Matches Played by Team by Season
+
+--------------------------------xxxxxxxxxxxxxxxx----------------------------------
